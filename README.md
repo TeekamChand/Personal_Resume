@@ -1,1 +1,1 @@
-transcendent-cendol-63fbca.netlify.app
+https://transcendent-cendol-63fbca.netlify.app/
